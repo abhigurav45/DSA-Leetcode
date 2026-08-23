@@ -35,5 +35,6 @@ Collection of LeetCode solutions and DSA practice problems.
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
