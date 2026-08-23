@@ -32,4 +32,8 @@ Collection of LeetCode solutions and DSA practice problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
