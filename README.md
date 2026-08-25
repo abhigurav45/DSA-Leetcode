@@ -35,6 +35,7 @@ Collection of LeetCode solutions and DSA practice problems.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1068-product-sales-analysis-i](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
