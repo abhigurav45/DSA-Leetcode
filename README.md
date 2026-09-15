@@ -42,6 +42,7 @@ Collection of LeetCode solutions and DSA practice problems.
 | [0596-classes-with-at-least-5-students](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/abhigurav45/DSA-Leetcode/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/abhigurav45/DSA-Leetcode/tree/master/1075-project-employees-i) |
