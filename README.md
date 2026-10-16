@@ -1,5 +1,5 @@
 # DSA-Leetcode
-Collection of LeetCode solutions and DSA practice problems.  
+Collection of LeetCode solutions and DSA practice problems. 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
